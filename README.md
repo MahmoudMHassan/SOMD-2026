@@ -1,4 +1,4 @@
-# Contrastive SciBERT for Cross-Document Software Coreference Resolution
+# Transformer Encoders with Heuristic-Guided Contrastive Learning for Software Coreference Resolution
 
 **Software Mention Detection (SOMD) Subtask 1 & Subtask 2 @ NSLP 2026**
 
